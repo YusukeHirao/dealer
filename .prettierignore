@@ -1,0 +1,8 @@
+cjs
+esm
+node_modules
+.DS_Store
+.editorconfig
+*ignore
+*.tsbuildinfo
+*.lock

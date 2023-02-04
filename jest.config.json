@@ -1,0 +1,3 @@
+{
+  "testMatch": ["**/test/**/*.spec.mjs"]
+}
